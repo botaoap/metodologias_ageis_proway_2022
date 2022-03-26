@@ -1,6 +1,6 @@
 # Metodologias Ágeis
 ## Grupo Whats:
-- [QR CODE](../metodologias_ageis/QR_CODE_metodoligas_ageis.jpg)
+- [QR CODE](metodologias_ageis/QR_CODE_metodoligas_ageis.jpg)
 
 ### Qual o objetivo do curso?
 - Introdução ao mundo Lean e Agile; Aplicação prática de ferramentas Lean em ambientes ágeis de TI.
